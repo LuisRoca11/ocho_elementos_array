@@ -1,0 +1,14 @@
+/home/linux/Programacion/C Sharp/ocho_elementos_array/bin/Debug/net9.0/ocho_elementos_array
+/home/linux/Programacion/C Sharp/ocho_elementos_array/bin/Debug/net9.0/ocho_elementos_array.deps.json
+/home/linux/Programacion/C Sharp/ocho_elementos_array/bin/Debug/net9.0/ocho_elementos_array.runtimeconfig.json
+/home/linux/Programacion/C Sharp/ocho_elementos_array/bin/Debug/net9.0/ocho_elementos_array.dll
+/home/linux/Programacion/C Sharp/ocho_elementos_array/bin/Debug/net9.0/ocho_elementos_array.pdb
+/home/linux/Programacion/C Sharp/ocho_elementos_array/obj/Debug/net9.0/ocho_elementos_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/linux/Programacion/C Sharp/ocho_elementos_array/obj/Debug/net9.0/ocho_elementos_array.AssemblyInfoInputs.cache
+/home/linux/Programacion/C Sharp/ocho_elementos_array/obj/Debug/net9.0/ocho_elementos_array.AssemblyInfo.cs
+/home/linux/Programacion/C Sharp/ocho_elementos_array/obj/Debug/net9.0/ocho_elementos_array.csproj.CoreCompileInputs.cache
+/home/linux/Programacion/C Sharp/ocho_elementos_array/obj/Debug/net9.0/ocho_elementos_array.dll
+/home/linux/Programacion/C Sharp/ocho_elementos_array/obj/Debug/net9.0/refint/ocho_elementos_array.dll
+/home/linux/Programacion/C Sharp/ocho_elementos_array/obj/Debug/net9.0/ocho_elementos_array.pdb
+/home/linux/Programacion/C Sharp/ocho_elementos_array/obj/Debug/net9.0/ocho_elementos_array.genruntimeconfig.cache
+/home/linux/Programacion/C Sharp/ocho_elementos_array/obj/Debug/net9.0/ref/ocho_elementos_array.dll
